@@ -1,0 +1,23 @@
+
+#mytable .fixed {
+    position: absolute;
+    left: 0;
+    width: 3em;
+}
+
+#mytable  {
+    overflow-x: scroll;
+    margin-left: 5em;
+    overflow-y: visible;
+    padding: 0;
+    width: 200px;
+}
+
+[role=gridcell] {
+    width: 3em;
+}
+
+.ui-datatable table {
+    margin-left: 50px;
+
+}

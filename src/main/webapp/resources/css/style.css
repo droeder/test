@@ -1,0 +1,19 @@
+
+#mytable .fixed {
+    position: absolute;
+    width: 100px;
+    left: 0;
+    width: 5em;
+}
+
+[role=gridcell] {
+    width: 4em;
+}
+
+#mytable  {
+    width: 200px;
+    overflow-x: scroll;
+    margin-left: 5em;
+    overflow-y: visible;
+    padding: 0;
+}
